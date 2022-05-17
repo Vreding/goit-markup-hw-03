@@ -1,2 +1,3 @@
-# goit-markup-hw-02
- Модуль 2
+# Homework-module1
+
+Домашняя работа. Модуль 2.
