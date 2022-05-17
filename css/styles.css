@@ -53,6 +53,7 @@ button {
   color: var(--secondary-color);
 }
 
+.current,
 .header-nav:hover,
 .header-nav:focus {
   color: var(--main-color);
