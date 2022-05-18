@@ -158,6 +158,10 @@ footer {
   color: var(--secondary-color);
 }
 
+.our-team {
+  background-color: #f5f4fa;
+}
+
 .team-name {
   font-family: var(--main-font);
   font-weight: 500;
